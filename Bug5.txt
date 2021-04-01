@@ -1,0 +1,12 @@
+The button Reset in the form Edit Customer is active, but does not perform its function.
+
+Description
+Steps to Reproduce
+1. Leave all fields unchanged.
+2. Press the button Reset.
+
+Actual result
+All fields are still filled.
+
+Expected result
+All fields must be empty.

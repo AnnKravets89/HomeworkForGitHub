@@ -1,0 +1,12 @@
+Fields "Customer Name", "Gender", "Date of Birth" in the form Edit Customer are not active.
+
+Description
+Steps to Reproduce
+1. Сlick on the fields "Customer Name", "Gender", "Date of Birth".
+
+Actual result
+Filds are not active.
+
+Expected result
+Filds are active.
+

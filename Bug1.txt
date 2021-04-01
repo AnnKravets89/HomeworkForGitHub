@@ -1,0 +1,13 @@
+The fields "Customer name", "City", "State" in the New Customer form and the fields "City", "State" in the Edit Customer form display an incorrect error when entering the Cyrillic alphabet.
+
+Description
+Steps to Reproduce
+1. Select section "New Customer" ("City", "State").
+2. In the fields "Customer Name"("City", "State") enter the data in Cyrillic.
+
+Actual result
+Error "Numbers are not allowed"
+
+Expected result
+Only Latin letters or 
+Cyrillic must be allowed

@@ -1,0 +1,17 @@
+The Mobile Number field in the New Customer registration form accepts incorrect data.
+
+Description
+Steps to Reproduce
+1. Fill the fild Customer Name correct data.
+2. Choose gender.
+3. Fill the filds Date of Birth, Address, City, State, PIN correct data.
+4. Enter one number  in the field Mobile Numer.
+5. Fill the fild E-mail correct data.
+6. Press botton Submit.
+
+Actual result
+New Customer added and assigned ID.
+
+Expected result
+Error Incorrect Mobile Number
+Mobile Number cannot be one digit

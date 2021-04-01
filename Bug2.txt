@@ -1,0 +1,17 @@
+The field Date of Birth accepts an incorrect date when creating a New Customer.
+
+Description
+Steps to Reproduce
+1. Fill the field Customer Name.
+2. Choose Gender.
+3. In the Date of Birth field, select the calendar icon and select an incorrect date (e.g. 1.10.2025).
+4. Fill in the fields Address, City, State, Pin, Mobile Number, Email with valid data.
+5. Press the botton Submit.
+
+Actual result
+New Customer has been created and assigned an ID.
+
+Expected result
+Error 
+Incorrect date, enter an existing Date of Birth.
+Date today 10.02.2021
